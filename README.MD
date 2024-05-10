@@ -1,3 +1,4 @@
+   <body>
    <h1>Exercícios BD PROA</h1>
     <ul>
         <li><strong>1. Listar todos os filmes:</strong></li>
@@ -57,3 +58,4 @@
             AND vencedor = 'Sim';
         </p>
     </ul>
+    </body>
